@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmita Basnet</h1>
-<h3 align="center">Aspiring Data Scientist | ML Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Aspiring Data Science Student | ML Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+solving+real-world+problems+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Exploring+Data+%26+Building+ML+Models" alt="Typing SVG" />
@@ -41,13 +41,14 @@
 ### 🌐 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/asmita-basnet-105b21225" target="_blank">
+  <a href="https://www.linkedin.com/in/asmita-basnet-105b21225" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:basnetasmi4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ## Hi there 👋
 
 <!--
